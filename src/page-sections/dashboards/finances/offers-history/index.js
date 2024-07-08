@@ -1,0 +1,1 @@
+export { default as OffersHistoryPageView } from "./offers-history";
